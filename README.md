@@ -17,5 +17,5 @@ Comments out cvars related to server broadcast (MOTD etc), read-only cvars, and 
 2. Choose the cfg file to process (uses the steam path to quakelive by default)
 3. Save the processed cfg file (also uses the steam path to quakelive by default)
 4. Optionally, in quakelive, run unbindall, unaliasall, cvar_restart
-5. In quakelive, run exec <your saved cfg file> 
+5. In quakelive, run exec your_saved_file.cfg
 6. Optionally, in quakelive, run vid_restart, writeconfig autoexec.cfg
